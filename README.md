@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, i'm Flo' !
+I've been a java developer. I've always liked to develop, it's my passion.
 
-<!--
-**FlooIG/FlooIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 What i use ?
 
-Here are some ideas to get you started:
+- [Java](https://www.java.com/fr/)
+- [Intellij IDE](https://www.jetbrains.com/fr-fr/idea/download/#section=windows)
+- [Symfony](https://symfony.com/doc/current/setup.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![icons java](https://github.com/FlooIG/FlooIG/blob/master/java-logo.jpg)
+
+# My Stats
+![Flo Github Stats](https://github-readme-stats.vercel.app/api?username=FlooIG&show_icons=true&theme=dark)
+
+# Follow me
+[![Github](https://img.shields.io/github/followers/FlooIG?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/FlooIG)
+#
